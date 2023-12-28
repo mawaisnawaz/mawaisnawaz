@@ -1,6 +1,6 @@
 ## Hello👋 I'm Awais Nawaz👨‍💻
 
-A well-qualified Full-Stack Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering 7 years of related experience.
+With over 7 years of experience in web technologies, I am a seasoned full-stack software engineer proficient in crafting robust and efficient solutions. My expertise lies in front-end development, where I have excelled in utilizing technologies such as React and Next.js. On the backend, I am well-versed in Node.js, employing frameworks like Express and Nest.js. My database proficiency extends to PostgreSQL and MySQL, allowing me to create dynamic and scalable applications with a keen focus on delivering high-quality software solutions.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/mawaisnawaz/)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammadawaisnawaz/)
