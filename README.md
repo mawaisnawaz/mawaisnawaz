@@ -3,7 +3,7 @@
 With over 7 years of experience in web technologies, I am a seasoned full-stack software engineer proficient in crafting robust and efficient solutions. My expertise lies in front-end development, where I have excelled in utilizing technologies such as React and Next.js. On the backend, I am well-versed in Node.js, employing frameworks like Express and Nest.js. My database proficiency extends to PostgreSQL and MySQL, allowing me to create dynamic and scalable applications with a keen focus on delivering high-quality software solutions.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/mawaisnawaz/)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammadawaisnawaz/)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadawaisnawaz/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais00772@gmail.com)
 
 ### Currently I am working with ...
