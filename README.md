@@ -2,9 +2,9 @@
 
 With over 7 years of experience in web technologies, I am a seasoned full-stack software engineer proficient in crafting robust and efficient solutions. My expertise lies in front-end development, where I have excelled in utilizing technologies such as React and Next.js. On the backend, I am well-versed in Node.js, employing frameworks like Express and Nest.js. My database proficiency extends to PostgreSQL and MySQL, allowing me to create dynamic and scalable applications with a keen focus on delivering high-quality software solutions.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/mawaisnawaz/)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadawaisnawaz/)
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais00772@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github&color=black)](https://github.com/mawaisnawaz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadawaisnawaz/)
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais00772@gmail.com)
 
 ### Currently I am working with ...
 
@@ -44,8 +44,6 @@ With over 7 years of experience in web technologies, I am a seasoned full-stack 
 <a href="" title="npm" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Stripe" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="Stripe" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mocha" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="30" height="30"/></a>&nbsp;&nbsp;
-
-### Cloud services for web hosting
 <a href="" title="AWS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Amazon ECS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="Firebase" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="AWS Lambda" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="Firebase" width="30" height="30"/></a>&nbsp;&nbsp;
